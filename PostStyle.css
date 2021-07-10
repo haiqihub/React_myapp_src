@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+.post-main-content {
+  margin-left: 90px;
+  padding: 10px;
+}
+  .post-item-content{
+    width:200px;
+    height: 65px;
+    word-wrap:break-word;
+    overflow:hidden;
+  }
+
+
+
+
+
+
+

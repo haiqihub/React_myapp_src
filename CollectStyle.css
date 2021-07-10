@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+.collect-main-content {
+  margin-left: 90px;
+  padding: 10px;
+ }
+
+  .collect-item-title{
+  	 width:200px;
+  	 height: 65px;
+     word-wrap:break-word;
+     overflow:hidden;
+  }
+  .collect-item-content{
+    width:200px;
+    height: 65px;
+    word-wrap:break-word;
+    overflow:hidden;
+  }
+
+
+
+

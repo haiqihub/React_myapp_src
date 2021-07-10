@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+
+
+
+.eachfollowers{
+	width: 600px;
+    height: 300px;
+    margin-left: 450px;
+    position: relative;
+    justify-content: center;
+	
+}
